@@ -2,7 +2,7 @@
 
 ## Description
 
-Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
+Application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
 * The application frontend has already been created, it's your job to build the backend and connect the two.
 
@@ -78,3 +78,9 @@ You are required to submit the following:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+## User Story
+## Acceptance Criteria 
+## Technologies use 
+## Deployed link
+## gif Demo
+## Owner
