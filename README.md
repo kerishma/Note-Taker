@@ -14,8 +14,10 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Key Features
 * GET /api/notes -reads the notes.json file and return all saved notes as JSON.
-* POST /api/notes - recieves a new note to save on the request body, add it to the notes.json file, and then returns the new note to the client.
-* DELETE /api/notes/:id - based on the query paramter passed i.e. id of a note to delete. In order to delete a note, you'll need to read all notes from the db.json file, remove the note with the given id property, and then rewrite the notes to the notes.json file.
+
+* POST /api/notes - receives new note to save on the request body, add it to the notes.json file, and then returns the new note to the client.
+
+* DELETE /api/notes/:id - based on the query parameter passed i.e. id of a note to delete. In order to delete a note, you'll need to read all notes from the db.json file, remove the note with the given id property, and then rewrite the notes to the notes.json file.
 
 ## Acceptance Criteria
 
@@ -36,7 +38,7 @@ Application should allow users to delete previously saved notes.
 https://kishmishs-notakerapp.herokuapp.com/
 
 ## gif Demo
-
+https://github.com/kerishma/Note-Taker-App/blob/master/Note%20Taker.gif
 
 ## Owner
 kerishma 
